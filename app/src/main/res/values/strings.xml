@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI Element 2</string>
+    <string name="song_queue">Song Queue</string>
+    <string name="todo">TODO</string>
+</resources>
